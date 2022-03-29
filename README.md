@@ -5,7 +5,7 @@ svg2android
 
 *Convert SVG to Android VectorDrawable XML resource file.*
 
-Extracts all parameters of elements and groups that are supported in Android. 
+Extracts all   parameters of elements and groups that are supported in Android. 
 
 **Supported:** path, line, rect, circle, ellipse, polyline and polygon elements.
 
