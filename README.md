@@ -3,6 +3,10 @@ svg2android
 ===========
 ### [Deprecated - use official [Vector Asset Studio](https://developer.android.com/studio/write/vector-asset-studio#svg) directly from Android Studio]
 
+
+https://holafg.github.io/svgtoxml/
+
+
 *Convert SVG to Android VectorDrawable XML resource file.*
 
 Extracts all   parameters of elements and groups that are supported in Android. 
